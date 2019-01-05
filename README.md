@@ -1,2 +1,2 @@
 # lolicyndrome-V1
-checker
+checker valid Apple
